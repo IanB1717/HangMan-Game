@@ -1,4 +1,4 @@
-//17428946&17380971
+
 import java.util.Scanner;
 
 public class Main {
